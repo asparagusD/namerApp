@@ -1,1 +1,1 @@
-A test app development project
+A test app development project using flutter
